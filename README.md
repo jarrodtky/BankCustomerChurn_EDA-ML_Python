@@ -36,29 +36,30 @@
     - [Decision Tree Classifier](https://en.wikipedia.org/wiki/Decision_tree_learning)
     - [K-Nearest Neighbor Classifier](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
-===============================
+
 
 ## Motivation
-- In the healthcare industry, understanding what factors or indicators affect a disease is an essential part of the decision-making and problem-solving process. 
-- People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model or statistical analyses can be of great help.
-- These indicators allow decision-makers to identify any potential ways to reduce risk factors of future health and increase the likelihood of disease prevention effectively (Santos et al., 2019). 
+- With the banking industry becoming much more competitive, banks must implement customer retention tactics while striving to improve their market share by attracting new customers. 
+- It has been proven that increasing the retention rate by 5% can boost a bank's profit by up to 85%. (Nie et al., 2011). 
+- As a result, banks should implement Machine Learning algorithms to forecast customer churn to preserve their competitive advantage. 
+- Despite this, many banks with a large customer base that are seeking for a competitive advantage have not seized advantage of the massive amounts of data they have, particularly in addressing one of the most well-known issues, customer churn. 
 
 
 
 ### Aim & Objective
 - Aim: 
-  - To improve the process of analyzing patients’ heart disease in the healthcare industry to allow earlier detection and avoidance of heart disease and morbidity. 
+  - To identify the various factors and relationships that cause customers churn as well as to evaluate the performance of predictive modelling using various analytical techniques that classifies bank customers into churners and non-churners.
 - Objective: 
-  - To create and select the best Machine Learning model that classifies patients into those who will develop heart disease in the future and those who will not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.). 
-  - The insights gained by analyzing the feature importance of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
+  - To create and select the best Machine Learning model that classifies bank customers into churners or not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.). 
+  - The insights and variables gained may be utilised to make better choices and adjustments, such as adding or upgrading services to decrease churn and measuring the success of marketing and other customer acquisition methods and techniques.
 
 
 
 ## Contents
-**(1) HeartDisease_Dataset.csv**
-  - Heart Disease dataset file in CSV format.
+**(1) BankCustomerChurn_Dataset.csv**
+  - Bank Customer Churn dataset file in CSV format.
 
-**(2) HeartDisease_EDA-ML_Python.ipynb**
+**(2) BankCustomerChurn_EDA-ML_Python.ipynb**
   - The main notebook containing the Python implementation codes (along with explanations) for the project.
 
 
