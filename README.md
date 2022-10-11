@@ -59,8 +59,8 @@
 **(1) BankCustomerChurn_Dataset.csv**
   - Bank Customer Churn dataset file in CSV format.
 
-**(2) BankCustomerChurn_EDA-ML_Python.ipynb**
-  - The main notebook containing the Python implementation codes (along with explanations) for the project.
+**(2) BankCustomerChurn_EDA-ML_Python Folder**
+  - Contains the main Python notebook with implementation codes and explanations for the project.
 
 
 
